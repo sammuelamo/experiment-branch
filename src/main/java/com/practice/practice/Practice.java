@@ -7,5 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Practice {
     public static void main(String[] args) {
         SpringApplication.run(Practice.class, args);
+        System.out.println("Welcome to the new world of Java");
     }
 }
